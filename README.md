@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @MarshiBC
-* Starting to code with **Swift** and **Swift UI**
+* Starting to code
 ## 🚀 Projects 🚀
 ### ...
 <!---
